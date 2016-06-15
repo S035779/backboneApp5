@@ -1,7 +1,7 @@
 {
   "name": "backbone-js-sample-app5",
   "version": "0.0.1",
-  "description": "Backbone.js RESTful sample 5",
+  "description": "Backbone.js RESTful sample model #5.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,18 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/S035779/backboneapp5.git"
+    "url": "git+https://github.com/S035779/backboneApp5.git"
   },
   "keywords": [
-    "backbone.js",
-    "sample"
+    "backbone.js"
   ],
   "author": "Mamoru Hashimoto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/S035779/backboneapp5/issues"
+    "url": "https://github.com/S035779/backboneApp5/issues"
   },
-  "homepage": "https://github.com/S035779/backboneapp5#readme",
+  "homepage": "https://github.com/S035779/backboneApp5#readme",
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
